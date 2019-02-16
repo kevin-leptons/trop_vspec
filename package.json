@@ -1,0 +1,25 @@
+{
+  "name": "@trop/vspec",
+  "version": "0.1.0",
+  "description": "Version rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-leptons/trop_vspec.git"
+  },
+  "keywords": [
+    "version",
+    "rule",
+    "specification"
+  ],
+  "author": "Kevin Leptons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-leptons/trop_vspec/issues"
+  },
+  "homepage": "https://github.com/kevin-leptons/trop_vspec#readme"
+}
