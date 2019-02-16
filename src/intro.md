@@ -38,6 +38,8 @@
   algorithm, fix bugs, performance improvement or upgrade documents, for
   example `1.2.0` and `1.2.1` has the similar `CPI`.
 
+![](asset/model.png)
+
 ## Do we have specification for this?
 
 Yes, ofcourse, checkout [Concepts](concept.md) and [Rules](rule.md).
