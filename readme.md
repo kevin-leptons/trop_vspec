@@ -7,7 +7,16 @@ Versioning rules.
 This is specification, not source code, checkout pre-build document at
 [https://trop-vspec.netlify.com](https://trop-vspec.netlify.com)
 
+## Development
+
+Start to edit specification
+
+```bash
+npm install
+npm start
+```
+
 ## References
 
-* [changelog](changelog.md)
-* [contribution](contribution.md)
+* [Changelog](changelog.md)
+* [Contribution](contribution.md)
